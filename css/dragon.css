@@ -1,0 +1,31 @@
+#jumbotron-header {
+  font-size: 80px;
+  background-color: #42f4bf;
+  color: white;
+  font-family: fantasy;
+}
+
+p {
+  color:white;
+}
+
+h1{
+  color:white;
+}
+
+
+#facts {
+   background: url('../images/dragon_background.jpg');
+
+ }
+
+   #home_btn {
+     padding-left: 50px;
+     color: white;
+     font-family: fantasy;
+
+   }
+
+   .btn-success{
+     background-color: blue;
+   }

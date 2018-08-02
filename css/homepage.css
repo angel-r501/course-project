@@ -1,0 +1,32 @@
+header {
+  font-size: 80px;
+  background-color: #012b87;
+  color: white;
+  font-family: fantasy;
+}
+#jumbotron-container {
+  background-image: url('../images/index_background2.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 700px;
+
+}
+
+.caption {
+        bottom: .3rem;
+        position: absolute;
+        text-align: center;
+         top: 250px;
+         color: white;
+}
+
+/* .btn {
+  bottom: .3rem;
+  position: absolute;
+  align-content: center;
+  color: white;
+} */
+
+body {
+  background-color: #012b87;
+}

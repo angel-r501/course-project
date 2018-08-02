@@ -1,0 +1,29 @@
+#jumbotron-container {
+  font-size: 80px;
+  background-color: #c554f2;
+  color: white;
+  font-family: fantasy;
+}
+
+
+}
+li {
+  font-size: 100;
+}
+.bg-contact{
+  background: url('../images/contact_me.jpg');
+}
+p{
+  color: yellow;
+}
+
+#home_btn {
+  padding-left: 50px;
+  color: white;
+  font-family: fantasy;
+
+}
+
+.btn-success{
+  background-color: blue;
+}
