@@ -5,8 +5,14 @@
   font-family: fantasy;
 }
 
+p {
+  color:white;
+}
 
+h1{
+  color:white;
+}
 
 
 #facts {
-   background: url('../images/unicorn_background.jpg');
+   background: url('../images/dragon_background.jpg');
