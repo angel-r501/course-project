@@ -4,6 +4,9 @@
   color: white;
   font-family: fantasy;
 }
+
+
+}
 li {
   font-size: 100;
 }
@@ -12,4 +15,15 @@ li {
 }
 p{
   color: yellow;
+}
+
+#home_btn {
+  padding-left: 50px;
+  color: white;
+  font-family: fantasy;
+
+}
+
+.btn-success{
+  background-color: blue;
 }

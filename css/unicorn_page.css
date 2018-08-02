@@ -10,3 +10,16 @@
 
 #facts {
    background: url('../images/unicorn_background.jpg');
+
+ }
+
+   #home_btn {
+     padding-left: 50px;
+     color: white;
+     font-family: fantasy;
+
+   }
+
+   .btn-success{
+     background-color: blue;
+   }
