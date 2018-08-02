@@ -13,11 +13,20 @@ header {
 }
 
 .caption {
-
         bottom: .3rem;
         position: absolute;
         text-align: center;
          top: 250px;
          color: white;
+}
 
+/* .btn {
+  bottom: .3rem;
+  position: absolute;
+  align-content: center;
+  color: white;
+} */
+
+body {
+  background-color: #012b87;
 }
